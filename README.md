@@ -1,5 +1,3 @@
-hello worlds
-
 # Model Picker
 
 A clean, lightweight demo app for comparing different AI models (GPT and Claude).
