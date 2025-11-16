@@ -1,8 +1,4 @@
-hello world
-
 # Model Picker
-
-This is model picker project.
 
 A clean, lightweight demo app for comparing different AI models (GPT and Claude).
 
